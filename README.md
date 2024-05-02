@@ -1,1 +1,1 @@
-## Changed HTML <div> elements to semantic
+## Changed HTML 'div' elements to semantic
